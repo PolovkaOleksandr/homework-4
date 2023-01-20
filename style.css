@@ -1,0 +1,24 @@
+
+
+  .link:focus{
+    background-color:blue;
+  }
+  .link:visited{
+    color:rgb(0, 0, 0) ; 
+  }
+  .link:hover{
+    color:rgb(7, 222, 75);
+  }
+  #one{
+    color:blueviolet;
+  }
+  #two{
+    color:yellowgreen;
+  }
+  
+  .list-item:nth-child(1n) {
+    color:red;
+  }
+  .list-item:nth-child(2n) {
+    color:aqua;
+  }
